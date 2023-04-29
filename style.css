@@ -318,8 +318,8 @@ a{
     width: 200px;
     height: 150px;
     position: absolute;
-    left: 80%;
-    top:325% ;
+    left: 75%;
+    top:190% ;
     border-radius: 15px;
 
 }
@@ -327,8 +327,8 @@ a{
     width: 200px;
     height: 150px;
     position: absolute;
-    left: 80%;
-    top:380% ;
+    left: 75%;
+    top:230% ;
     border-radius: 15px;
    
 }
@@ -336,8 +336,8 @@ a{
     height: 150px;
     width: 200px;
     position: absolute;
-    left: 80%;
-    top: 430%;
+    left: 75%;
+    top: 260%;
     border-radius: 15px;
     
 }
